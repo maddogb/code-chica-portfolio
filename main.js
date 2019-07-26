@@ -10,11 +10,11 @@ function myName() {
 } 
 
 function mySchool() {
-    document.getElementById("school").innerHTML = "I am a senior at Harmony School of Endeavor.I have a passion for art. I love music and art and theatre. In school I have participated in all three. I also was in robotics and made up to 4 different robots.";
+    document.getElementById("school").innerHTML = I have a passion for art. I love music and art and theatre. In school I have participated in all three. I also was in robotics and made up to 4 different robots.";
 }
 
 function myCareer() {
-    document.getElementById("career").innerHTML = "For the time being I am currently employed at kumon. I help little kids with reading, writing , and math. I chose to be work at kumon because i wanted to have an experience working and helping kids because in the future I want to become a pediatrician ";
+    document.getElementById("career").innerHTML = "I help little kids with reading, writing , and math. I chose to be work with because i wanted to have an experience working and helping kids because in the future I want to become a pediatrician ";
 }
 
 function myHobbies() {
