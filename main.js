@@ -10,7 +10,7 @@ function myName() {
 } 
 
 function mySchool() {
-    document.getElementById("school").innerHTML = "I am a senior at Harmony School of Endeavor.";
+    document.getElementById("school").innerHTML = "I am a senior at Harmony School of Endeavor.I have a passion for art. I love music and art and theatre. In school I have participated in all three. I also was in robotics and made up to 4 different robots.";
 }
 
 function myCareer() {
