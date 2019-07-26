@@ -10,11 +10,11 @@ function myName() {
 } 
 
 function mySchool() {
-    document.getElementById("school").innerHTML = "I am a senior at Harmony School of Endeavor. Harmony is a charter school that teachers grades k-12th.";
+    document.getElementById("school").innerHTML = "I am a senior at McNeil High School";
 }
 
 function myCareer() {
-    document.getElementById("career").innerHTML = "For the time being i am currently employed at Kumon. At kumon i help teach little kids reading , writing and math. I chose to work at kumon to have experience working and helping kids because in the future I want to become a pediatrician ";
+    document.getElementById("career").innerHTML = "For the time being i am currently a tutor of kids. i tutor little kids in reading , writing and math. I chose to be a tutor because i wanted to have experience working and helping kids because in the future I want to become a pediatrician ";
 }
 
 function myHobbies() {
